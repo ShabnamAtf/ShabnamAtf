@@ -6,7 +6,7 @@
 
 📫 How to reach me: zahraatf2@gmail.com
 
-🔗 Connect with me on LinkedIn @Zahra Atf
+🔗 Connect with me on LinkedIn [@Zahra Atf](https://www.linkedin.com/in/zahra-atf-a21a622a7/)
 
 
 <!---
