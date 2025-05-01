@@ -2,11 +2,11 @@
 
 🔍 I’m interested in uncovering hidden truths in data.
 
-💞️ I’m open to collaborating on projects involving NLP, large language models (LLMs), and retrieval-augmented generation (RAG).
+💞️ I’m open to collaborating on projects involving NLP, LLMs and RAG.
 
 📫 How to reach me: zahraatf2@gmail.com
 
-🔗 Connect with me on LinkedIn https://bit.ly/3XxRoov
+🔗 Connect with me on LinkedIn @Zahra Atf
 
 
 <!---
