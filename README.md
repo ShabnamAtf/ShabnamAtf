@@ -1,7 +1,11 @@
 👋 Hi, I’m @ShabnamAtf, an interdisciplinary researcher.
+
 🔍 I’m interested in uncovering hidden truths in data.
-💞️ I’m looking to collaborate on projects involving NLP, LLMs, and RAG (Retrieval-Augmented Generation).
+
+💞️ I’m looking to collaborate on projects involving NLP, LLMs, and RAG.
+
 📫 How to reach me: zahraatf2@gmail.com
+
 🔗 Connect with me on LinkedIn https://bit.ly/3XxRoov
 
 
