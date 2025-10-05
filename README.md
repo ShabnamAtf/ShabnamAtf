@@ -2,7 +2,7 @@
 
 🔍 I’m interested in uncovering hidden truths in data.
 
-💞️ I’m open to collaborating on projects involving NLP, LLMs, VLMs and RAG.
+💞️ I’m open to collaborating on projects involving NLP, LLMs, VLM and RAG.
 
 📫 How to reach me: zahraatf2@gmail.com
 
