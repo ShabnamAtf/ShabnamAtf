@@ -1,8 +1,8 @@
-👋 Hi, I’m @ShabnamAtf, an interdisciplinary researcher.
+👋 Hi, I’m @ShabnamAtf, an interdisciplinary AI researcher.
 
 🔍 I’m interested in uncovering hidden truths in data.
 
-💞️ I’m open to collaborating on projects involving NLP, LLMs and RAG.
+💞️ I’m open to collaborating on projects involving NLP, LLMs, VLMs and RAG.
 
 📫 How to reach me: zahraatf2@gmail.com
 
