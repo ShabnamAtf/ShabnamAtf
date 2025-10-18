@@ -1,12 +1,11 @@
-👋 Hi, I’m @ShabnamAtf, an interdisciplinary AI researcher.
+🔗 Connect with me on: 
+Gmail: Zahraatf2@gmail.com
+LinkedIn: [@Zahra Atf](https://www.linkedin.com/in/zahra-atf-a21a622a7/)
 
-🔍 I’m interested in uncovering hidden truths in data.
+Research areas:
+- NLP, LLMs , VLMs
+- RAG / Policy-Grounded Evaluation
 
-💞️ I’m open to collaborating on projects involving NLP, LLMs, VLM and RAG.
-
-📫 How to reach me: zahraatf2@gmail.com
-
-🔗 Connect with me on LinkedIn [@Zahra Atf](https://www.linkedin.com/in/zahra-atf-a21a622a7/)
 
 
 <!---
