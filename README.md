@@ -3,6 +3,7 @@ Gmail: Zahraatf2@gmail.com
 LinkedIn: [@Zahra Atf](https://www.linkedin.com/in/zahra-atf-a21a622a7/)
 
 Research areas:
+- Digital Marketing
 - NLP, LLMs , VLMs
 - RAG / Policy-Grounded Evaluation
 
